@@ -15,7 +15,7 @@ Example:
 2. It uses 30 degree angles and link lengths to simulate arm movement.
 3. Functions like cosine and sine are used to calculate positions.
 
-# What I Learned
+# What I achieved
 1. I learned how forward kinematics works in robotics.
 2. I got better at reading and commenting Python code.
 3. I learned how to set up Python and VS Code and also how to import numpy and matplotlib
